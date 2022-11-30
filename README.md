@@ -3,8 +3,11 @@ A3 Sistemas Distribuídos - fila de mensagens em python
 
 # Integrantes
 José Miraldo Mascarenhas Dias Júnior - 1272118531 - miraldodiasjunior@gmail.com
+
 Guilherme Cavalcanti Pessoa Santos - 1272117554 - cavalcanti.100@gmail.com
+
 Guilherme Curvelo de Jesus Fraga - 1272116404 - guilhermee671@gmail.com
+
 Ariel Soares Franco - 12722210594 - ariel.sfranco@gmail.com
 
 # Requisitos e Instruções
