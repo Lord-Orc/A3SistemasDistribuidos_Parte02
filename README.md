@@ -1,6 +1,13 @@
 # A3SistemasDistribuidos_Parte02
 A3 Sistemas Distribuídos - fila de mensagens em python
 
+# Integrantes
+José Miraldo Mascarenhas Dias Júnior - 1272118531 - miraldodiasjunior@gmail.com
+Guilherme Cavalcanti Pessoa Santos - 1272117554 - cavalcanti.100@gmail.com
+Guilherme Curvelo de Jesus Fraga - 1272116404 - guilhermee671@gmail.com
+Ariel Soares Franco - 12722210594 - ariel.sfranco@gmail.com
+
+# Requisitos e Instruções
 1 - importar biblioteca 'pika' e no terminal fazer o comando 'pip install pika'
 
 2 - Para poder usar o local host do RabbitMQ deve baixar ele na maquina abrir o terminal
